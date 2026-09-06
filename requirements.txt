@@ -1,0 +1,13 @@
+# Анализ и визуализация
+numpy
+pandas
+matplotlib
+scipy
+statsmodels
+
+# Чтение Excel
+openpyxl
+
+# Запуск ноутбука
+jupyterlab
+ipykernel
